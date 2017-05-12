@@ -1,10 +1,12 @@
 # TheBlackProject
 
-TheBlackProject is a 
+TheBlackProject is a HTTP Layer 7 DoS script which is an upgraded version of GoldenEye. Many bugs have been fixed since last release of GoldenEye.
 
 TheBlackProject is a DoS python script for http. This project is under Team Ultimate Software and Technologies association limited.
 For more info. please visit Teamultimate.in.
 
+Credits :-
+Manal Shaikh
 
 ## Usage
 
